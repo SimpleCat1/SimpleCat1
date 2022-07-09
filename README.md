@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a passionate QA Engineer
+👨‍💻 I am Zotov Nikolay Sergeevich QA-engineer from [SimbirSoft](https://www.simbirsoft.com/?ysclid=l5e5b5cqek175135380)
 
 ## What I do
 
@@ -25,3 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleCat1)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contacts
+
+https://t.me/Nikolay_Simple
