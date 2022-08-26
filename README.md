@@ -16,6 +16,7 @@
 <code><img width="5%" title="Java" src="images/picture_java-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="images/picture_selenide-logo.svg"></code>
 <code><img width="5%" title="Selenoid" src="images/picture_selenoid-logo.svg"></code>
+<code><img width="5%" title="REST-Assured" src="images/picture_rest-assured-logo.svg"></code>
 <code><img width="5%" title="Gradle" src="images/picture_gradle-logo.svg "></code>
 <code><img width="5%" title="JUnit5" src="images/picture_junit5-logo.svg"></code>
 <code><img width="5%" title="Allure Report" src="images/picture_allure-Report-logo.svg"></code>
