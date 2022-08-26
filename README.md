@@ -6,6 +6,8 @@
 
 💻 Web Automation
 
+💻 Api Automation
+
 🛠 QA Tools development
 
 ## Languages and tools
