@@ -4,6 +4,8 @@
 
 ## What I do
 
+💻 Mobile Automation
+
 💻 Web Automation
 
 💻 Api Automation
@@ -14,6 +16,7 @@
 
 <p  align="center"><code><img width="5%" title="IntelliJ IDEA" src="images/picture_IDEA-logo.svg"></code>
 <code><img width="5%" title="Java" src="images/picture_java-logo.svg"></code>
+<code><img width="5%" title="Appium" src="images/appium-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="images/picture_selenide-logo.svg"></code>
 <code><img width="5%" title="Selenoid" src="images/picture_selenoid-logo.svg"></code>
 <code><img width="5%" title="REST-Assured" src="images/picture_rest-assured-logo.svg"></code>
