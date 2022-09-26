@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I am Zotov Nikolay Sergeevich QA-engineer from [SimbirSoft](https://www.simbirsoft.com/?ysclid=l5e5b5cqek175135380)
+👨‍💻 I am QA-engineer from [SimbirSoft](https://www.simbirsoft.com/?ysclid=l5e5b5cqek175135380)
 
 ## What I do
 
