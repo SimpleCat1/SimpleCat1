@@ -27,7 +27,11 @@
 <code><img width="5%" title="Github" src="images/picture_git-logo.svg"></code>
 <code><img width="5%" title="Jenkins" src="images/picture_jenkins-logo.svg"></code>
 <code><img width="5%" title="Jira" src="images/picture_jira-logo.svg"></code>
-<code><img width="5%" title="Telegram" src="images/picture_Telegram.svg"></code></p>
+<code><img width="5%" title="Telegram" src="images/picture_Telegram.svg"></code>
+<code><img width="5%" title="Docker" src="images/docker-logo.svg"></code>
+<code><img width="5%" title="PyCharm" src="images/pycharm-logo.svg"></code>
+<code><img width="5%" title="Selenium" src="images/selenium-logo.svg"></code>
+<code><img width="5%" title="Pytest" src="images/Pytest_logo.svg"></code></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleCat1)](https://github.com/anuraghazra/github-readme-stats)
 
