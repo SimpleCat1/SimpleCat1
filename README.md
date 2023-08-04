@@ -41,3 +41,9 @@
 ## Contacts
 
 https://t.me/Nikolay_Simple
+
+## my repositories (projects)
+
+https://github.com/SimpleCat1/python_selenium
+https://github.com/SimpleCat1/test_repo
+https://github.com/SimpleCat1/wooordhunt-tests
