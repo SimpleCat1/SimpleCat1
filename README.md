@@ -34,6 +34,7 @@
 <code><img width="5%" title="Pytest" src="images/Pytest_logo.svg"></code>
 <code><img width="5%" title="Python" src="images/python-logo.svg"></code>
 <code><img width="5%" title="SQLite" src="images/sqlite-seeklogo.svg"></code>
+<code><img width="5%" title="Playwright" src="images/playwright-logo.svg"></code>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleCat1)](https://github.com/anuraghazra/github-readme-stats)
