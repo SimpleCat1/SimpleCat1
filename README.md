@@ -45,7 +45,9 @@ https://t.me/Nikolay_Simple
 
 ## my repositories (projects)
 
-https://github.com/SimpleCat1/python_selenium2 (улучшенная версия python_selenium)
+https://github.com/SimpleCat1/python_selenium2/tree/for_computer (улучшенная версия python_selenium)
+
+https://github.com/SimpleCat1/python_selenium2 (улучшенная версия python_selenium, запускается только в контейнере)
 
 https://github.com/SimpleCat1/playwrigthTests
 
