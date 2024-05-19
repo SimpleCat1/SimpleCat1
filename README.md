@@ -45,6 +45,8 @@ https://t.me/Nikolay_Simple
 
 ## my repositories (projects)
 
+https://github.com/SimpleCat1/python_selenium4/tree/page (изменил подход в скелете ui тестов, от чего чтение кода стало лучше. Сделал мокирование в api тестах)
+
 https://github.com/SimpleCat1/python_selenium4 (улучшенная и упрощенная версия python_selenium2)
 
 https://github.com/SimpleCat1/python_selenium2/tree/for_computer (улучшенная версия python_selenium)
